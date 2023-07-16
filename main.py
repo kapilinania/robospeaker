@@ -1,5 +1,4 @@
 import pyttsx3
-
 if __name__ == '__main__':
     print("Welcome to Robo Speaker:")
     x = input("Enter what you want me to speak: ")
